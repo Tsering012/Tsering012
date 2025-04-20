@@ -1,1 +1,97 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hinju Gonpa - Ladakh</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f2f2f2; }
+    header { background: #4b2e83; color: white; padding: 20px; text-align: center; }
+    nav { background: #ddd; padding: 10px; text-align: center; }
+    nav a { margin: 0 15px; text-decoration: none; color: #4b2e83; font-weight: bold; }
+    .container { padding: 20px; max-width: 900px; margin: auto; background: white; }
+    h2 { color: #4b2e83; }
+    footer { text-align: center; padding: 15px; background: #4b2e83; color: white; margin-top: 40px; }
+    .event { border-bottom: 1px solid #ddd; padding: 10px 0; }
+    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin-top: 20px; }
+    .gallery img { width: 100%; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hinju Gonpa</h1>
+    <p>A Peaceful Temple in the Mountains of Ladakh</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#village">Hinju Village</a>
+    <a href="#events">Festivals</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <div class="container">
+    <section id="about">
+      <h2>About Hinju Gonpa</h2>
+      <p>Hinju Gonpa, located in Hinju village, was founded by the late Gyen Komchok Thinles. It is affiliated with the Lamayuru Monastery of the Drikung Kagyu School of Buddhism. This sacred site offers a serene environment for spiritual seekers and travelers alike.</p>
+    </section>
+
+    <section id="village">
+      <h2>About Hinju Village</h2>
+      <p>Hinju is a small and peaceful hamlet with just 21 houses, located approximately 130 km from Leh city and 28 km from its Tehsil, Khaltsi. The village is a notable stop on the trekking route from Lamayuru to Chilling and also on the path to Tsomoriri. It is surrounded by dramatic mountains and natural beauty.</p>
+    </section>
+
+    <section id="events">
+      <h2>Festivals and Events</h2>
+      <div class="event">
+        <strong>Annual Prayer Ceremony</strong>
+        <p>Held in the summer, villagers gather to offer prayers and celebrate with traditional songs and offerings.</p>
+      </div>
+      <div class="event">
+        <strong>Losar (Tibetan New Year)</strong>
+        <p>Celebrated with rituals and communal gatherings at the Gonpa.</p>
+      </div>
+    </section>
+
+    <section id="gallery">
+      <h2>Gallery</h2>
+      <div class="gallery">
+        <img src="/mnt/data/file-LgoTn61Cu9BxWTGeScKiDL" alt="Hinju Village View" />
+        <img src="/mnt/data/file-4Mykycmik4yScFRPN6dcKB" alt="Rainbow over Hinju" />
+        <img src="/mnt/data/file-HpYxpJ4y4XnajWWjVi3ddC" alt="Hinju Valley in Clouds" />
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Information</h2>
+      <p>For visit arrangements or spiritual inquiries, please connect with a local representative in Hinju village. (You can update this section with phone numbers or emails later.)</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Hinju Gonpa Website. Built with love for Ladakh's heritage.</p>
+  </footer>
+</body>
+</html>
+
+
+Your website for Hinju Gonpa now includes:
+
+Details about the temple and village
+
+A gallery with the three images you uploaded
+
+A section for festivals and contact info
+
+
+Would you like help with:
+
+1. Hosting this site online (e.g., on GitHub Pages or Netlify)?
+
+
+2. Adding more features like a donation section, local guides, or trekking info?
+
+
+
+Let me know how you'd like to continue!
+
